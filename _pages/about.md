@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Yifan Wang's home on the web.
+I am a third year Ph.D. student at University of Delaware. My advisor is [Dr. Guangmo(Amo) Tong](https://udel.edu/~amotong/).
