@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Transportation Engineering, Chang'an University, 2012 - 2016
+* M.S. in Transportation Engineering, University of Delaware, 2017 - 2019
+* Ph.D in Computer and Information Science, University of Delaware, 2020 - Current
 
-Work experience
+Work experience[Yifan_CV.pdf](https://github.com/yifanwang123/yifanwang123.github.io/files/9822903/Yifan_CV.pdf)
+
 ======
 * Summer 2015: Research Assistant
   * Github University
