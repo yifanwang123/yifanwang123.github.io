@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student at University of Delaware. My advisor is [Dr. Guangmo(Amo) Tong](https://udel.edu/~amotong/).
+I am a third year Ph.D. student at University of Delaware. My advisor is [Dr. Guangmo(Amo) Tong](https://udel.edu/~amotong/). My reseaches focus on Machine Learning and Social Network Analysis.
