@@ -11,6 +11,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 Yifan Wang, Guangmo Tong
 This paper is about the number 1. The number 2 is left for future work.
 
-[pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ijcai.org/proceedings/2022/0553.pdf);[code](https://github.com/cdslabamotong/LTInfLearning)
+[pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ijcai.org/proceedings/2022/0553.pdf) [code](https://github.com/cdslabamotong/LTInfLearning)
 
 The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI), 2022
