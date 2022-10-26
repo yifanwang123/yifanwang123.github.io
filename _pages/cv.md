@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Yifan_CV.pdf](https://github.com/yifanwang123/yifanwang123.github.io/files/9822903/Yifan_CV.pdf)
+[Yifan_CV.pdf](https://github.com/yifanwang123/yifanwang123.github.io/files/9866458/Yifan_CV.pdf)
+
 
 
