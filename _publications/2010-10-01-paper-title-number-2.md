@@ -8,4 +8,4 @@ EAI WiCON
 
 How to simulate infuence models using complex-valued neural networks? Here is our recent progress.
 
-[pdf](http://academicpages.github.io/files/paper2.pdf)[code](https://github.com/cdslabamotong/CommunicationModelLearning)
+[pdf](http://academicpages.github.io/files/paper2.pdf) [code](https://github.com/cdslabamotong/CommunicationModelLearning)
