@@ -1,6 +1,6 @@
 ---
 title: "Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem"
-date: 2022
+date: 2022-11-01
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-27041-3_16'
 ---
 
