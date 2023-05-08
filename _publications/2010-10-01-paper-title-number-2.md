@@ -1,6 +1,6 @@
 ---
 title: "Learning the Propagation of Worms in Wireless Sensor Networks"
-date: 2022
+date: 2022-11-1
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-27041-3_8'
 ---
 
